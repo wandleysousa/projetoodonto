@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <img src="odonto2.png" alt="Logo Odonto Centro" class="logo">
+        <img src="img\odonto2.png" alt="Logo Odonto Centro" class="logo">
         <section>
             <h1>Manutenção de Ar Condicionado</h1>
             <h2>Odonto Centro</h2>
@@ -29,7 +29,7 @@
              <p>Av. Nossa Sra. do Socorro, 566 - João Alves, Nossa Sra. do Socorro - SE</p></a></li>
 
             <li><a href="unidade4.php"><p>Unidade 4</p> 
-            <p>R. João Pessoa, 64 - Centro, Aracaju - SE </p></a></li>
+            <p>R. João Pessoa, 64 - Centro, Aracaju - SE</p></a></li>
 
 
 
