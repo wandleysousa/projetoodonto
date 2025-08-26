@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <img src="img\odonto2.png" alt="Logo Odonto Centro" class="logo">
+        <img src="img/odonto2.png" alt="Logo Odonto Centro" class="logo">
         <section>
             <h1>Manutenção de Ar Condicionado</h1>
             <h2>Odonto Centro</h2>
